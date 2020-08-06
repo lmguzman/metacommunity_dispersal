@@ -1,0 +1,10 @@
+Loglikelihood: -48458.300830
+CV error (K=1): 1.19141
+Loglikelihood: -35647.508594
+CV error (K=2): 1.11887
+Loglikelihood: -22671.321220
+CV error (K=3): 0.86556
+Loglikelihood: -21154.183270
+CV error (K=4): 1.11213
+Loglikelihood: -18816.716980
+CV error (K=5): 0.95193

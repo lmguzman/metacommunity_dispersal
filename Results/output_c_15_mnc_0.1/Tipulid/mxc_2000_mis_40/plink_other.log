@@ -1,0 +1,22 @@
+PLINK v1.90b6.4 64-bit (7 Aug 2018)
+Options in effect:
+  --file /Users/lmguzman/Documents/UBC/GBS/General_analysis/output_c_15_mnc_0.1/Tipulid/mxc_2000_mis_40//plink.plk
+  --out /Users/lmguzman/Documents/UBC/GBS/General_analysis/output_c_15_mnc_0.1/Tipulid/mxc_2000_mis_40//plink_other
+
+Hostname: dhcp-206-87-116-69.ubcsecure.wireless.ubc.ca
+Working directory: /Users/lmguzman/Documents/UBC/GBS/General_analysis/bash_scripts
+Start time: Fri Dec  7 12:49:07 2018
+
+Random number seed: 1544215747
+8192 MB RAM detected; reserving 4096 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (1675 variants, 95 people).
+--file:
+/Users/lmguzman/Documents/UBC/GBS/General_analysis/output_c_15_mnc_0.1/Tipulid/mxc_2000_mis_40//plink_other.bed
++
+/Users/lmguzman/Documents/UBC/GBS/General_analysis/output_c_15_mnc_0.1/Tipulid/mxc_2000_mis_40//plink_other.bim
++
+/Users/lmguzman/Documents/UBC/GBS/General_analysis/output_c_15_mnc_0.1/Tipulid/mxc_2000_mis_40//plink_other.fam
+written.
+
+End time: Fri Dec  7 12:49:07 2018

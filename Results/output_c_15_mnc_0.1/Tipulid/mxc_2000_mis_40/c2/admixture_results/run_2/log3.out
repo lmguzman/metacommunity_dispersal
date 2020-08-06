@@ -1,0 +1,42 @@
+****                   ADMIXTURE Version 1.3.0                  ****
+****                    Copyright 2008-2015                     ****
+****           David Alexander, Suyash Shringarpure,            ****
+****                John  Novembre, Ken Lange                   ****
+****                                                            ****
+****                 Please cite our paper!                     ****
+****   Information at www.genetics.ucla.edu/software/admixture  ****
+
+Cross-validation will be performed.  Folds=5.
+Random seed: 1544466633
+Point estimation method: Block relaxation algorithm
+Convergence acceleration algorithm: QuasiNewton, 3 secant conditions
+Point estimation will terminate when objective function delta < 0.0001
+Estimation of standard errors disabled; will compute point estimates only.
+Size of G: 31x462
+Performing five EM steps to prime main algorithm
+1 (EM) 	Elapsed: 0.001	Loglikelihood: -10617	(delta): 5265.48
+2 (EM) 	Elapsed: 0	Loglikelihood: -10014.7	(delta): 602.347
+3 (EM) 	Elapsed: 0	Loglikelihood: -9471.05	(delta): 543.628
+4 (EM) 	Elapsed: 0	Loglikelihood: -8754.95	(delta): 716.101
+5 (EM) 	Elapsed: 0	Loglikelihood: -7842.2	(delta): 912.748
+Initial loglikelihood: -7842.2
+Starting main algorithm
+1 (QN/Block) 	Elapsed: 0.004	Loglikelihood: -5432.23	(delta): 2409.97
+2 (QN/Block) 	Elapsed: 0.004	Loglikelihood: -4752.97	(delta): 679.259
+3 (QN/Block) 	Elapsed: 0.005	Loglikelihood: -4410.52	(delta): 342.446
+4 (QN/Block) 	Elapsed: 0.005	Loglikelihood: -4214.08	(delta): 196.443
+5 (QN/Block) 	Elapsed: 0.006	Loglikelihood: -4114.79	(delta): 99.2886
+6 (QN/Block) 	Elapsed: 0.005	Loglikelihood: -4093.13	(delta): 21.6671
+7 (QN/Block) 	Elapsed: 0.005	Loglikelihood: -4087.1	(delta): 6.02412
+8 (QN/Block) 	Elapsed: 0.005	Loglikelihood: -4086.87	(delta): 0.230072
+9 (QN/Block) 	Elapsed: 0.005	Loglikelihood: -4086.87	(delta): 6.67635e-06
+Summary: 
+Converged in 9 iterations (0.056 sec)
+Loglikelihood: -4086.871482
+Fst divergences between estimated populations: 
+	Pop0	Pop1	
+Pop0	
+Pop1	0.792	
+Pop2	0.827	0.619	
+CV error (K=3): 0.61602
+Writing output files.
