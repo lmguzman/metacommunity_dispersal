@@ -2,7 +2,7 @@
 
 This repository contains code associated with the simulations for “Genomic variation among populations provides insight into the causes of metacommunity survival.”
 
-Guzman LM, Srivastava DS. 2020 Genomic variation among populations provides insight into the causes of metacommunity survival. Ecology (Accepted).
+Guzman LM, Srivastava DS. 2020 Genomic variation among populations provides insight into the causes of metacommunity survival. Ecology. 101 (12), e03182 (DOI)[https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3182]
 
 # In a nutshell
 
